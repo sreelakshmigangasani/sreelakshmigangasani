@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sreelakshmi
-- 👀 I’m interested in Photography,Gardening,Drawing
+- 👀 I’m interested in Gardening,Drawing,Photography
 - 🌱 I’m currently learning Python,Django
 - 📫 How to reach me sreelakshmigangasani@gmail.com
 - 😄 Pronouns: she/her
